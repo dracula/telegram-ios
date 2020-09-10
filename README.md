@@ -20,4 +20,4 @@ If you want to customize it, download the themefile.txt, edit it, and upload to 
 
 ## License
 
-[MIT License](./LICENSE)
+[MIT License](LICENSE.md)
