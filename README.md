@@ -13,6 +13,9 @@ If you want to customize it, download the themefile.txt, edit it, and upload to 
 
 > _If you find an error in the theme color please open an issue in github._
 
+## To-Do
+- [ ] Telegram macOS client theme (feel free to contribute)
+
 ## Team
 
 | [![Enrico Bez](https://avatars0.githubusercontent.com/u/29044262?v=4&s=70)](https://github.com/enricobez) |
