@@ -2,8 +2,8 @@
 
 > An iOS dark theme for [Telegram](https://apps.apple.com/app/telegram-messenger/id686449807) based on the [Dracula Theme](https://draculatheme.com) made by [Zeno Rocha](https://twitter.com/zenorocha)
 
-![Screenshot](./screenshot/screen1.jpg)
-![Screenshot](screenshot/screen2.jpg)
+<!-- ![Screenshot](./screenshot/screen1.jpg) -->
+<!-- ![Screenshot](screenshot/screen2.jpg) -->
 
 ## Install
 
