@@ -1,7 +1,7 @@
 name: Dracula iOS
 shortname: DnKCjyhPW3kyo1ph
 // By: Enrico Bez - email@enricobez.it - www.enricobez.it
-// Repository: https://github.com/nmsmith22389/dracula
+// Repository: https://github.com/enricobez/Dracula-iOS-telegram-theme
 basedOn: night
 dark: true
 intro_statusBar: white
