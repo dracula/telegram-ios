@@ -14,9 +14,9 @@ If you want to customize it, download the themefile.txt, edit it, and upload to 
 
 ## Team
 
-| [![Enrico Bez](https://avatars2.githubusercontent.com/u/8648114?v=3&s=70)](https://github.com/enricobez) |
-|----------------------------------------------------------------------------------------------------------|
-| [Enrico Bez](https://github.com/enricobez)                                                               |
+| [![Enrico Bez](https://avatars0.githubusercontent.com/u/29044262?v=4&s=70)](https://github.com/enricobez) |
+|-----------------------------------------------------------------------------------------------------------|
+| [Enrico Bez](https://github.com/enricobez)                                                                |
 
 ## License
 
