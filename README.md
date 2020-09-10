@@ -1,6 +1,4 @@
-# Dracula iOS telegram theme
- 
-# Dracula for [Telegram Desktop](https://desktop.telegram.org/)
+# Dracula for [Telegram iOS] (https://apps.apple.com/app/telegram-messenger/id686449807)
 
 > An iOS dark theme for [Telegram](https://apps.apple.com/app/telegram-messenger/id686449807) based on the [Dracula Theme](https://draculatheme.com) made by [Zeno Rocha](https://twitter.com/zenorocha)
 
