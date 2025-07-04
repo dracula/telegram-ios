@@ -1,7 +1,7 @@
 name: Dracula iOS
 shortname: DnKCjyhPW3kyo1ph
 // By: Enrico Bez - email@enricobez.it - www.enricobez.it
-// Repository: https://github.com/dracula/telegram-ios
+// Repository: https://github.com/enricobez/Dracula-iOS-telegram-theme
 basedOn: night
 dark: true
 wallpaper: #1F2029
@@ -170,13 +170,13 @@ chat_message_incoming_bubble_withoutWp_stroke: #44475A
 chat_message_incoming_primaryText: #FFFFFF
 chat_message_incoming_secondaryText: #FFFFFF7F
 chat_message_incoming_linkText: #FF79C6
-chat_message_incoming_linkHighlight: #79C67F
+chat_message_incoming_linkHighlight: #FF79C67F
 chat_message_incoming_scam: #FF5555
 chat_message_incoming_textHighlight: #FFB86C
 chat_message_incoming_accentText: #BD93F9
 chat_message_incoming_accentControl: #BD93F9
 chat_message_incoming_mediaActiveControl: #BD93F9
-chat_message_incoming_mediaInactiveControl: #93F966BD
+chat_message_incoming_mediaInactiveControl: #BD93F966
 chat_message_incoming_mediaControlInnerBg: #262628
 chat_message_incoming_pendingActivity: #FFFFFF7F
 chat_message_incoming_fileTitle: #F1FA8C
@@ -185,7 +185,7 @@ chat_message_incoming_fileDuration: #FFFFFF7F
 chat_message_incoming_mediaPlaceholder: #2A2A2A
 chat_message_incoming_polls_radioButton: #737373
 chat_message_incoming_polls_radioProgress: #50FA7B
-chat_message_incoming_polls_highlight: #FA7B1E50
+chat_message_incoming_polls_highlight: #50FA7B1E
 chat_message_incoming_polls_separator: #000000
 chat_message_incoming_polls_bar: #50FA7B
 chat_message_incoming_polls_barIconForeground: #FFFFFF
@@ -336,7 +336,7 @@ chat_inputButtonPanel_panelBg: #141414
 chat_inputButtonPanel_panelSeparator: #3D3D40
 chat_inputButtonPanel_buttonBg: #5A5A5A
 chat_inputButtonPanel_buttonStroke: #0C0C0C
-chat_inputButtonPanel_buttonHighlightedBg: #5A5AB25A
+chat_inputButtonPanel_buttonHighlightedBg: #5A5A5AB2
 chat_inputButtonPanel_buttonHighlightedStroke: #0C0C0C
 chat_inputButtonPanel_buttonText: #FFFFFF
 chat_historyNav_bg: #1F2029
